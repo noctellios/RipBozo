@@ -1,0 +1,37 @@
+## Interface: 11404
+## Title: RipBozo
+## Author: noctellios
+## Version: 1.0
+
+## DefaultState: enabled
+## SavedVariables: ripbozo_settings, ripbozo_watchlist
+
+embeds.xml
+
+Libs/DeathNotificationLib/NPCs/id_to_npc_classic_en.lua
+Libs/DeathNotificationLib/NPCs/npc_to_id_classic_en.lua
+Libs/DeathNotificationLib/NPCs/id_to_npc_classic_cn.lua
+Libs/DeathNotificationLib/NPCs/npc_to_id_classic_cn.lua
+Libs/DeathNotificationLib/NPCs/id_to_npc_classic_de.lua
+Libs/DeathNotificationLib/NPCs/npc_to_id_classic_de.lua
+Libs/DeathNotificationLib/NPCs/id_to_npc_classic_es.lua
+Libs/DeathNotificationLib/NPCs/npc_to_id_classic_es.lua
+Libs/DeathNotificationLib/NPCs/id_to_npc_classic_fr.lua
+Libs/DeathNotificationLib/NPCs/npc_to_id_classic_fr.lua
+Libs/DeathNotificationLib/NPCs/id_to_npc_classic_it.lua
+Libs/DeathNotificationLib/NPCs/npc_to_id_classic_it.lua
+Libs/DeathNotificationLib/NPCs/id_to_npc_classic_ko.lua
+Libs/DeathNotificationLib/NPCs/npc_to_id_classic_ko.lua
+Libs/DeathNotificationLib/NPCs/id_to_npc_classic_pt.lua
+Libs/DeathNotificationLib/NPCs/npc_to_id_classic_pt.lua
+Libs/DeathNotificationLib/NPCs/id_to_npc_classic_ru.lua
+Libs/DeathNotificationLib/NPCs/npc_to_id_classic_ru.lua
+Libs/DeathNotificationLib/table_localization.lua
+Libs/DeathNotificationLib/DeathNotificationLib.lua
+
+id_to_display_id.lua
+id_to_quote.lua
+
+RipBozoAlert/widget.lua
+
+ripbozo.lua
