@@ -1,6 +1,8 @@
 # RipBozo
 WoW Classic Hardcore Addon to watch the Deathlog for a specific character's demise.
 
+Does *NOT* require the Deathlog addon to also be installed. Provided a Deathlog addon from someone on the server records the death, RipBozo should pick it up.
+
 ## Installation
 
 Download and extract RipBozo.zip into World of Warcraft/\_classic_era\_/Interface/AddOns
