@@ -188,7 +188,7 @@ local function newEntry(_player_data, _checksum, num_peer_checks, in_guild)
     local found = false
     local dName = _player_data["name"]:lower()
     for k,v in pairs(ripbozo_watchlist) do
-        if (((v.name:lower() == dName) or string.match(_player_data["name"], v.name)) and (not found)) then 
+        if (((v.name:lower() == dName) or (_player_data["name"] == v.name)) and (not found)) then 
             if (v.comment == nil) then 
                 _player_data["comment"] = ""
             else
