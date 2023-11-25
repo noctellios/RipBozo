@@ -1,7 +1,7 @@
-## Interface: 11404
+## Interface: 11500
 ## Title: RipBozo
 ## Author: noctellios
-## Version: 1.1
+## Version: 1.2
 
 ## DefaultState: enabled
 ## SavedVariables: ripbozo_settings, ripbozo_watchlist

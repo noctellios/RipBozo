@@ -26,6 +26,8 @@ sounds["1"] = "Interface\\AddOns\\RipBozo\\Sounds\\lmtf.ogg"
 sounds["2"] = "Interface\\AddOns\\RipBozo\\Sounds\\tij.ogg"
 sounds["3"] = "Interface\\AddOns\\RipBozo\\Sounds\\ct.ogg"
 sounds["4"] = "Interface\\AddOns\\RipBozo\\Sounds\\kl.ogg"
+sounds["5"] = "Interface\\AddOns\\RipBozo\\Sounds\\auil.ogg"
+sounds["6"] = "Interface\\AddOns\\RipBozo\\Sounds\\kekw.ogg"
 
 local TWITCHEMOTES_TimeSinceLastUpdate = 0
 local TWITCHEMOTES_T = 0

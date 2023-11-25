@@ -95,6 +95,8 @@ function f.InitializeOptions()
                     ["2"] = "Guitar",
                     ["3"] = "Percussive",
                     ["4"] = "Heavy",
+                    ["5"] = "allusinlove",
+                    ["6"] = "KEKW",
                 },
                 set = function(info,val) ripbozo_settings["alert_sound"] = val end,
                 get = function(info) return ripbozo_settings["alert_sound"] end
